@@ -53,7 +53,7 @@ A Java application simulating a simplified version of the tactical card game *In
  
 Aucune installation de Java n'est nécessaire.
  
-1. Rends-toi dans l'onglet **Releases** de ce dépôt.
+1. Rends-toi dans l'onglet [**Releases**](https://github.com/AndreasColino/project-inscription/releases) de ce dépôt.
 2. Télécharge l'archive `InscriptionLike_v1.0.0_win-x64.zip`.
 3. Extrais l'intégralité de l'archive dans un dossier.
 4. Double-clique sur `InscriptionLike.exe` pour lancer la partie directement dans le terminal.
@@ -76,7 +76,7 @@ Aucune installation de Java n'est nécessaire.
  
 No Java installation required.
  
-1. Go to the **Releases** section of this repository.
+1. Go to the [**Releases**](https://github.com/AndreasColino/project-inscription/releases) section of this repository.
 2. Download `InscriptionLike_v1.0.0_win-x64.zip`.
 3. Extract the entire ZIP archive to a folder.
 4. Double-click `InscriptionLike.exe` to run the game directly in the console.
